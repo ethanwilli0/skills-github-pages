@@ -1,0 +1,4 @@
+---
+title: "Custom Title"
+date: 2025-12-03
+---
